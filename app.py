@@ -1,7 +1,7 @@
 import streamlit as st
 from utils import extract_text_from_pdf, preprocess_text, calculate_similarity
 
-st.title("AI Resume Screening System")
+st.title("🧾AI Resume Screening System")
 
 st.write("Upload resumes and compare them with the job description.")
 
