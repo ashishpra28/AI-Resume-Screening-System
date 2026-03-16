@@ -123,7 +123,7 @@ This helps recruiters quickly identify the **most relevant candidates**.
 
 # 🌐 Live Application
 
-Live App: https://your-streamlit-app-link.streamlit.app
+Live App: https://ai-resume-screening-system-wm9vvjyqvdt7dfjhe9mdlj.streamlit.app/
 
 ---
 
